@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+
+body{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        #C5CFDA 30%,
+        #C5CFDA 50%,
+        #FFFFFF 50%,
+        #FFFFFF 100%
+    );
+
+    
+    align-items: right;
+}
+
+.psolid{
+    border-style: solid;
+}
+
+  
